@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **mredenti/mredenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,5 +14,5 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marichardson137&show_icons=true&locale=en&layout=compact" alt="marichardson137" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marichardson137&show_icons=true&locale=en" alt="marichardson137" /></p>
--->
+
 
