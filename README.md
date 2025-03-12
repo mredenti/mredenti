@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Qt, a framework for creating graphical user interfaces and cross-platform applications
 - 💬 Ask me about **GPU computing** 
 - 📫 How to reach me: **m.redenti@cineca.it**
 
